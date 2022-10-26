@@ -1,0 +1,49 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		// {
+		//     "path" : "pages/finalReply/finalReply",
+		//     "style" :                                                                                    
+		//     {
+		//         "navigationBarTitleText": "",
+		//         "enablePullDownRefresh": false
+		//     }
+
+		// },
+		// {
+		//     "path" : "pages/questions/questions",
+		//     "style" :                                                                                    
+		//     {
+		//         "navigationBarTitleText": "",
+		//         "enablePullDownRefresh": false
+		//     }
+
+		// },
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "绘画天赋测试"
+			}
+		}
+		, {
+			"path": "pages/questions/questions",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+		}
+
+		, {
+			"path": "pages/finalReply/finalReply",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

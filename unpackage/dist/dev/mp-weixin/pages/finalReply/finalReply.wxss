@@ -1,0 +1,80 @@
+
+.content {
+	width: 100%;
+	height: 100%;
+	overflow-x: hidden;
+}
+.boxImg {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+}
+.logo {
+	width: 116rpx;
+	height: 76rpx;
+	margin-top: 28rpx;
+	margin-left: 41rpx;
+}
+.headerImg {
+	width: 711rpx;
+	height: 282rpx;
+	margin: 0 31rpx 0 27rpx;
+}
+.conclusion {
+	width: 663rpx;
+	height: 358rpx;
+	background: #fff;
+	border: 4rpx solid #2638bd;
+	border-radius: 20rpx;
+	margin: 0 43rpx 0 44rpx;
+}
+.conclusionTitle {
+	line-height: 52rpx;
+	text-align: center;
+	margin: 18rpx 3rpx 10rpx -12rpx;
+	box-sizing: border-box;
+	font-family: my-font;
+}
+.fraction {
+	font-size: 41rpx;
+	color: #2638bd;
+	font-weight: 700;
+	margin-left: -64rpx;
+	box-sizing: border-box;
+	font-family: my-font;
+}
+.conclusionNum {
+	font-size: 41rpx;
+	color: #2638bd;
+	font-weight: 700;
+}
+.conclusionText {
+	width: 512rpx;
+	height: 167rpx;
+	font-size: 24rpx;
+	font-family: Source Han Sans CN;
+	font-weight: 600;
+	color: #2638bd;
+	line-height: 48rpx;
+	text-align: center;
+	margin: 0 76rpx 0 75rpx;
+}
+.manMsg {
+	width: 663rpx;
+	height: 219rpx;
+	margin: 10rpx 43rpx -10rpx 44rpx;
+}
+.arrow {
+	width: 87rpx;
+	height: 100rpx;
+	margin: 10rpx 329rpx -53rpx 329rpx;
+}
+.QRCode {
+	display: block;
+	width: 300rpx;
+	margin: 62rpx auto;
+}
+

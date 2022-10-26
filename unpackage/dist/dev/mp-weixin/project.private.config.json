@@ -1,0 +1,48 @@
+{
+    "setting": {},
+    "condition": {
+        "plugin": {
+            "list": []
+        },
+        "game": {
+            "list": []
+        },
+        "gamePlugin": {
+            "list": []
+        },
+        "miniprogram": {
+            "list": [
+                {
+                    "name": "测试",
+                    "pathName": "pages/questions/questions?id=1",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "",
+                    "pathName": "pages/finalReply/finalReply",
+                    "query": "id=2",
+                    "scene": null
+                },
+                {
+                    "name": "",
+                    "pathName": "pages/index/index",
+                    "query": "type=1",
+                    "scene": null
+                },
+                {
+                    "name": "",
+                    "pathName": "pages/questions/questions",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "",
+                    "pathName": "pages/finalReply/finalReply",
+                    "query": "",
+                    "scene": null
+                }
+            ]
+        }
+    }
+}

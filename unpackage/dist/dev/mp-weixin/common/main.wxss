@@ -1,0 +1,6 @@
+
+@font-face {
+	font-family: my-font;
+	src: url('https://www.mojinshi.online/mjs/assets/fonts/my-font.ttf') format('truetype');
+}
+

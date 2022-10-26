@@ -1,0 +1,93 @@
+
+.content {
+	overflow-x: hidden;
+}
+.boxImg {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 1624rpx;
+	z-index: -1;
+}
+.logo {
+	width: 116rpx;
+	height: 76rpx;
+	margin-top: 28rpx;
+	margin-left: 41rpx;
+}
+.headerImg {
+	width: 711rpx;
+	height: 270rpx;
+	margin: 5rpx 31rpx -2rpx 27rpx;
+}
+.headerText {
+	position: absolute;
+	top: 309rpx;
+	left: 107rpx;
+	width: 416rpx;
+	font-size: 32rpx;
+	font-family: Source Han Sans CN;
+	font-weight: 500;
+	color: #f9db1c;
+	background-color: #2828fc;
+}
+.coupletLeft {
+	width: 75rpx;
+	height: 554rpx;
+	margin-left: 17rpx;
+	margin-top: 74rpx;
+}
+.coupletRight {
+	width: 75rpx;
+	height: 554rpx;
+	margin-right: 17rpx;
+	margin-top: 74rpx;
+}
+.middleBox {
+	display: flex;
+	justify-content: space-around;
+}
+.middleImg {
+	width: 475rpx;
+	height: 660rpx;
+}
+.personNumBox {
+	position: absolute;
+	top: -5rpx;
+	left: 0;
+	width: 100%;
+}
+.personNum {
+	position: absolute;
+	top: 500rpx;
+	left: 203rpx;
+	display: inline-block;
+	font-size: 24rpx;
+	font-family: Adobe Heiti Std;
+	font-weight: 540;
+	color: #2638bd;
+}
+.bottomBox {
+	display: flex;
+	flex-direction: column;
+}
+.testBtn {
+	width: 345rpx;
+	height: 100rpx;
+	margin: 21rpx auto;
+}
+.bottomSubject {
+	text-align: center;
+	font-size: 24rpx;
+	font-family: Alibaba PuHuiTi;
+	font-weight: 400;
+	color: #ffffff;
+	margin-top: -12px;
+}
+.imageBottom {
+	width: 659rpx;
+	height: 190rpx;
+	margin: 17rpx auto 75rpx;
+}
+
